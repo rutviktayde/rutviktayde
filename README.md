@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Rutvik Tayde 👋</h1>
-<h3 align="center">A Curious Tech Enthusiast from India — shaping ideas into code at Government Polytechnic Nagpur.</h3>
+<h1 align="center">Hi there, I'm Rutvik Tayde! 👋</h1>
+<h3 align="center">A Curious Tech Enthusiast from Maharashtra, India.</h3>
 
 <table>
   <tr>
@@ -23,16 +23,26 @@
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats : </h3>
 
 <!-- GitHub Stats and Top Languages side by side -->
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <a href="https://github.com/rutviktayde">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/rutviktayde">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&theme=tokyonight&count_private=true&hide=stars&border_radius=10" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages" height="200px"/>
 </div>
 
 <!-- Streak + Connect GIF with spacing -->
@@ -40,7 +50,7 @@
   <a href="https://github.com/rutviktayde">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight" alt="GitHub Streak" />
   </a>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="200" alt="Handshake GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="200" alt="Handshake GIF" />
 </div>
 
 <hr>
@@ -87,7 +97,7 @@
 
 <hr>
 
-<h3 align="center">🤝 Connect with me</h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/rutvik-tayde-5a837b28b/">
