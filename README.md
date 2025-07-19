@@ -93,9 +93,9 @@
 
 <hr>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
+<p align="left">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/rutvik-tayde-5a837b28b/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
   </a>
@@ -108,4 +108,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://x.com/rutviktayde">
     <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" />
   </a>
+
+[![Rutvik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rutviktayde&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
