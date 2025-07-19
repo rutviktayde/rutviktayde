@@ -5,11 +5,11 @@
   <tr>
     <td valign="top" width="60%">
       <p>
-        I'm <b>Rutvik Tayde</b>, a creative and motivated developer who loves building things with code.
+        I'm <b>Rutvik Tayde</b>, a creative and motivated developer who enjoys building things with code.
         <br><br>
         • 🎓 Currently shaping ideas into code at Government Polytechnic Nagpur. <br>
         • 🔍 Actively Learning & Exploring Full Stack Web Development. <br>
-        • 🌱 I love turning ideas into real-world projects that make an impact. <br>
+        • 🌱 I'm passionate about transforming ideas into real-world projects that create impact. <br>
         • ✨ I'm more about pixels than ports — designing elegant, responsive UIs is what excites me the most. <br>
         • 🤝 I’m eager to contribute to freelance projects and collaborative initiatives that foster both learning and impact.
       </p>
@@ -20,25 +20,29 @@
   </tr>
 </table>
 
-<br>
+<hr>
 
-<div align="center">
-  <a href="https://github.com/rutviktayde" style="display: inline-flex; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&locale=en&theme=tokyonight" alt="rutviktayde"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rutviktayde"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
+<!-- GitHub Stats and Top Languages side by side -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/rutviktayde">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight" alt="rutviktayde" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="200" alt="Working GIF" style="margin-left: 20px;" />
+  <a href="https://github.com/rutviktayde">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </a>
 </div>
 
-<br>
+<hr>
+
+<!-- Streak + GIF with space between -->
+<div align="center" style="margin-top: 40px; display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+  <a href="https://github.com/rutviktayde">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="200" alt="Working GIF" />
+</div>
+
+<hr>
 
 <h3 align="left">💻 Tech Stack :</h3>
 
@@ -80,7 +84,7 @@
   </tr>
 </table>
 
-<br>
+<hr>
 
 <h3 align="center">🤝 Connect with me</h3>
 <p align="center">
