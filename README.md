@@ -11,7 +11,8 @@
         • 🔍 Actively Learning & Exploring Full Stack Web Development. <br>
         • 🌱 I'm passionate about transforming ideas into real-world projects that create impact. <br>
         • ✨ I'm more about pixels than ports — designing elegant, responsive UIs is what excites me the most. <br>
-        • 🤝 I’m eager to contribute to freelance projects and collaborative initiatives that foster both learning and impact.
+        • 🤝 I’m eager to contribute to freelance projects and collaborative initiatives that foster both learning and impact. <br>
+        • 📫 Feel free to reach out via any of the platforms below.
       </p>
     </td>
     <td valign="top">
@@ -22,24 +23,24 @@
 
 <hr>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <!-- GitHub Stats and Top Languages side by side -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <a href="https://github.com/rutviktayde">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/rutviktayde">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   </a>
 </div>
 
-<hr>
-
-<!-- Streak + GIF with space between -->
-<div align="center" style="margin-top: 40px; display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<!-- Streak + Connect GIF with spacing -->
+<div align="center" style="margin-top: 50px; display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
   <a href="https://github.com/rutviktayde">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight" alt="GitHub Streak" />
   </a>
-  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="200" alt="Working GIF" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="200" alt="Handshake GIF" />
 </div>
 
 <hr>
@@ -87,6 +88,7 @@
 <hr>
 
 <h3 align="center">🤝 Connect with me</h3>
+
 <p align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/rutvik-tayde-5a837b28b/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" />
