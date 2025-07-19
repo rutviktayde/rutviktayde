@@ -33,17 +33,13 @@
         <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&theme=tokyonight&count_private=true&hide=stars&border_radius=10" alt="GitHub Stats"/>
       </td>
       <td>
-        <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages" alt="GitHub Stats"/>
       </td>
     </tr>
   </table>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages" height="200px"/>
-</div>
 
 <!-- Streak + Connect GIF with spacing -->
 <div align="center" style="margin-top: 50px; display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
