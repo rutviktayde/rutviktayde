@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rutvik Tayde! 👋</h1>
-<h3 align="center">A Curious Tech Enthusiast from Maharashtra, India.</h3>
+<h3 align="center">A Curious Tech Enthusiast from Maharashtra, India 🚀</h3>
 
 <table>
   <tr>
@@ -73,20 +73,19 @@
     </td>
   </tr>
 
+<tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
+    <td>
+      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=mongodb" />
+    </td>
+  </tr>
+
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
     <td>
       <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=nodejs" />
       <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=express" />
       <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=python" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-    <td>
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=mongodb" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=mysql" />
     </td>
   </tr>
 </table>
