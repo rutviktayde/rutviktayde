@@ -6,14 +6,26 @@
 </a>
 
 <br>
+<div align="center">
+  <a href="https://github.com/rutviktayde">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rutviktayde"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rutviktayde"/>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://github.com/rutviktayde">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight" alt="rutviktayde" />
+  </a>
+</p>
+s
+<h3 align="left">Tech Stack :</h3>
 
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages:</td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+      <img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,java" />
     </td>
   </tr>
   
@@ -35,20 +47,6 @@
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=git,github" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=vscode" />
     </td>
   </tr>
 </table>
