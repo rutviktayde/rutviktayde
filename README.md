@@ -3,12 +3,11 @@
   <a href="https://github.com/rutviktayde">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutviktayde&theme=tokyonight" alt="GitHub Streak" />
   </a>
-  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="200" alt="Handshake GIF" />
 </div>
 
 <hr>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px">Connect with me 🤝 </h3>
+<h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
   <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/rutvik-tayde-5a837b28b/">
