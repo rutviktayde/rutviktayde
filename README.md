@@ -1,19 +1,3 @@
-<!-- GitHub Stats and Top Languages side by side -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <!-- Streak + Connect GIF with spacing -->
 <div align="center" style="margin-top: 50px; display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
   <a href="https://github.com/rutviktayde">
