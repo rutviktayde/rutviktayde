@@ -1,30 +1,3 @@
-<h1 align="center">Hi there, I'm Rutvik Tayde! 👋</h1>
-<h3 align="center">A Curious Tech Enthusiast from Maharashtra, India 🚀</h3>
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <p>
-        I'm <b>Rutvik Tayde</b>, a creative and motivated developer who enjoys building things with code.
-        <br><br>
-        • 🎓 Currently shaping ideas into code at Government Polytechnic Nagpur. <br>
-        • 🔍 Actively Learning & Exploring Full Stack Web Development. <br>
-        • 🌱 I'm passionate about transforming ideas into real-world projects that create impact. <br>
-        • ✨ I'm more about pixels than ports — designing elegant, responsive UIs is what excites me the most. <br>
-        • 🤝 I’m eager to contribute to freelance projects and collaborative initiatives that foster both learning and impact. <br>
-        • 📫 Feel free to reach out via any of the platforms below.
-      </p>
-    </td>
-    <td valign="top">
-      <img align="right" height="300" width="400" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-    </td>
-  </tr>
-</table>
-
-<hr>
-
-<h3 align="left">📊 GitHub Stats : </h3>
-
 <!-- GitHub Stats and Top Languages side by side -->
 <div align="center">
   <table>
@@ -33,7 +6,7 @@
         <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rutviktayde&show_icons=true&theme=tokyonight&count_private=true&hide=stars&border_radius=10" alt="GitHub Stats"/>
       </td>
       <td>
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages" alt="GitHub Stats"/>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutviktayde&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -48,47 +21,6 @@
   </a>
   <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" height="200" alt="Handshake GIF" />
 </div>
-
-<hr>
-
-<h3 align="left">💻 Tech Stack :</h3>
-
-<table>
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Languages:</td>
-    <td>
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=c" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=cpp" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=python" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=java" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td>
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=html" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=css" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=js" />
-    </td>
-  </tr>
-
-<tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-    <td>
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=mongodb" />
-    </td>
-  </tr>
-
-  <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-    <td>
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=nodejs" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=express" />
-      <img height="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=python" />
-    </td>
-  </tr>
-</table>
 
 <hr>
 
